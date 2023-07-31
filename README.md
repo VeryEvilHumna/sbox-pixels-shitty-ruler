@@ -1,8 +1,8 @@
 # S&box Fnuny Pixels Shitty Ruler
 
-This is a Python application that allows you to count area of art on S&Box Pixels game.
+This is a Python application that allows you to calculate area of art on S&Box Pixels game.
 
-You can type pixel place cooldown to estimate time needed to complete the pixel art
+You can enter pixel place cooldown to estimate time needed to complete the pixel art
 
 ## Getting Started
 
